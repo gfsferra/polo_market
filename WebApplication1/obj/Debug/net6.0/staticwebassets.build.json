@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1myjCNgBnayMvSKpbedSi5+t/ExXvZdyxryujQEMc8w=",
+  "Hash": "qm131An2Iu0vXjPsFoALpoQ8vWLm4aYqds6L5saJUM0=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\BondGarfoApp.styles.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/BondGarfoApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BondGarfoApp.styles.css"
     },
     {
       "Identity": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",

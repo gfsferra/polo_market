@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\migrations\\webapplication1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\webapplication1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\migrations\\20240614033538_updatepratoandcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240614033538_updatepratoandcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\migrations\\20240603212932_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240603212932_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\areas\\identity\\data\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\data\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\models\\prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\areas\\identity\\data\\webapplication1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\data\\webapplication1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\controllers\\pratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\pratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "20240614033538_UpdatePratoAndCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240614033538_UpdatePratoAndCategoria.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240614033538_UpdatePratoAndCategoria.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240614033538_UpdatePratoAndCategoria.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240614033538_UpdatePratoAndCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T21:39:08.652Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-06-14T03:35:38.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABrAAAA",
+              "DocumentIndex": 4,
+              "Title": "Prato.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Prato.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Prato.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Prato.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Prato.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawBEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T21:44:47.098Z",
+              "WhenOpened": "2024-06-14T03:30:20.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Categoria.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T21:37:50.129Z",
+              "WhenOpened": "2024-06-14T03:30:19.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T21:36:11.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T21:36:06.319Z",
+              "DocumentIndex": 6,
+              "Title": "WebApplication1Context.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Data\\WebApplication1Context.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Data\\WebApplication1Context.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Data\\WebApplication1Context.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Data\\WebApplication1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:30:17.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Data\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T21:35:57.819Z",
+              "WhenOpened": "2024-06-14T03:30:12.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240603212932_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240603212932_Initial.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240603212932_Initial.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240603212932_Initial.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240603212932_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:17:30.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication1ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAAAFIBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:17:29.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PratosController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PratosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PratosController.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PratosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PratosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:11:04.342Z",
               "EditorCaption": ""
             }
           ]

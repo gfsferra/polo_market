@@ -1,0 +1,45 @@
+@model WebApplication1.Models.Prato
+
+@{
+ViewData["Title"] = "Details";
+}
+
+<section class="details">
+    <h1>Detalhes do prato: <span>@Html.DisplayFor(prato => prato.Nome)</span></h1>
+
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Ingredientes)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ingredientes)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Categoria.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Preco)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Preco)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Validade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Validade)
+        </dd>
+    </dl>
+
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</section>

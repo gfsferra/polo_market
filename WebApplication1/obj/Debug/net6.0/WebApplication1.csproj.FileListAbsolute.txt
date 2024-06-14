@@ -255,3 +255,4 @@ C:\Users\Win10\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\run
 C:\Users\Win10\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Win10\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Win10\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Win10\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.sourcelink.json

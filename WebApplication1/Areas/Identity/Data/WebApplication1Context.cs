@@ -12,6 +12,10 @@ public class WebApplication1Context : IdentityDbContext<UsuarioModel>
     {
     }
 
+    public DbSet<WebApplication1.Models.Prato> Prato { get; set; }
+
+    public DbSet<WebApplication1.Models.Categoria> Categoria { get; set; }
+
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);

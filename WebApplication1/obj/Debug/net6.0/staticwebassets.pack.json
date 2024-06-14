@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\BondGarfoApp.styles.css",
+      "PackagePath": "staticwebassets\\css\\BondGarfoApp.styles.css"
+    },
+    {
       "Id": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
