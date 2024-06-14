@@ -234,6 +234,63 @@ namespace WebApplication1.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("WebApplication1.Models.Categoria", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Descricao")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Categoria");
+                });
+
+            modelBuilder.Entity("WebApplication1.Models.Prato", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<int>("CategoriaId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Ingredientes")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("Preco")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<DateTime>("Validade")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("categoria")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoriaId");
+
+                    b.ToTable("Prato");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -284,59 +341,22 @@ namespace WebApplication1.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
+
+            modelBuilder.Entity("WebApplication1.Models.Prato", b =>
+                {
+                    b.HasOne("WebApplication1.Models.Categoria", "Categoria")
+                        .WithMany("Pratos")
+                        .HasForeignKey("CategoriaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Categoria");
+                });
+
             modelBuilder.Entity("WebApplication1.Models.Categoria", b =>
-            {
-                b.Property<int>("Id")
-                    .ValueGeneratedOnAdd()
-                    .HasColumnType("int"); // Mudança para "int" para compatibilidade com SQL Server
-
-                b.Property<string>("Descricao")
-                    .HasColumnType("nvarchar(max)");
-
-                b.Property<string>("Nome")
-                    .HasColumnType("nvarchar(max)");
-
-                b.HasKey("Id");
-
-                b.ToTable("Categoria");
-            });
-
-            modelBuilder.Entity("WebApplication1.Models.Prato", b =>
-            {
-                b.Property<int>("Id")
-                    .ValueGeneratedOnAdd()
-                    .HasColumnType("int"); // Mudança para "int" para compatibilidade com SQL Server
-
-                b.Property<string>("Ingredientes")
-                    .HasColumnType("nvarchar(max)");
-
-                b.Property<string>("Nome")
-                    .HasColumnType("nvarchar(max)");
-
-                b.Property<decimal>("Preco")
-                    .HasColumnType("decimal(18,2)");
-
-                b.Property<DateTime>("Validade")
-                    .HasColumnType("datetime2"); // Usar datetime2 para melhor compatibilidade com SQL Server
-
-                b.Property<int>("CategoriaId") // Relacionamento com Categoria
-                    .HasColumnType("int");
-
-                b.HasKey("Id");
-
-                b.HasIndex("CategoriaId");
-
-                b.ToTable("Prato");
-            });
-
-            modelBuilder.Entity("WebApplication1.Models.Prato", b =>
-            {
-                b.HasOne("WebApplication1.Models.Categoria", "Categoria")
-                    .WithMany("Pratos")
-                    .HasForeignKey("CategoriaId")
-                    .OnDelete(DeleteBehavior.Cascade)
-                    .IsRequired();
-            });
+                {
+                    b.Navigation("Pratos");
+                });
 #pragma warning restore 612, 618
         }
     }
