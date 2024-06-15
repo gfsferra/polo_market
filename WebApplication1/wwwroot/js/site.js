@@ -23,3 +23,13 @@ function accordion(button) {
         panel.style.marginTop = "12px";
     }
 }
+
+let buttons = document.getElementsByClassName("btn-close");
+
+if (buttons.length > 0) {
+    for (let button of buttons) {
+        button.addEventListener("click", () => {
+            location.reload();
+        })
+    }
+}

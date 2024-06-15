@@ -24,5 +24,5 @@ public class Prato
     public DateTime Validade {get; set;}
 
     // Atributo de Relacionamento
-    public virtual Categoria Categoria {get; set;}
+    public virtual Categoria? Categoria {get; set;}
 }
