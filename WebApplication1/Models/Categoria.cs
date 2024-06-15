@@ -9,11 +9,11 @@ public class Categoria
 {
     public int Id {get; set;}
     [Display(Name="Categoria")]
-    public string Nome {get; set;}
+    public string? Nome {get; set;}
     [Display(Name="Descrição")]
-    public string Descricao  {get; set;}
+    public string? Descricao  {get; set;}
 
     // Atributo de Relacionamento
-    public virtual List<Prato> Pratos {get; set;}
+    public virtual List<Prato>? Pratos {get; set;}
   
 }

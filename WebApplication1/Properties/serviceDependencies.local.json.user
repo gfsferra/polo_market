@@ -1,4 +1,13 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-06-15T02:19:17.5278603Z"
+    },
+    "sqlite1": {
+      "restored": true,
+      "restoreTime": "2024-06-15T02:17:26.9403693Z"
+    }
+  },
   "parameters": {}
 }

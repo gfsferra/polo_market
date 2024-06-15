@@ -153,7 +153,7 @@ namespace WebApplication1.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var prato = await _context.Prato.FindAsync(id);
-            _context.Prato.Remove(prato);
+            _context.Prato.Remove(entity: prato);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }

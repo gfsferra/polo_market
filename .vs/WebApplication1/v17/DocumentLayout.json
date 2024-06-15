@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\models\\prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\views\\pratos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\pratos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\controllers\\pratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\pratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\win10\\source\\repos\\webapplication1\\webapplication1\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9E0C7-E2D8-4D0A-8F0B-8EFD7CC062F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prato.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Prato.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Prato.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Prato.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Prato.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:24:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Pratos\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Pratos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Pratos\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Pratos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T02:26:11.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PratosController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PratosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PratosController.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PratosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PratosController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAmwJsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:19:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Categoria.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:10:19.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAEwI8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:09:24.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
