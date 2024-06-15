@@ -15,8 +15,6 @@ public class Prato
     [Display(Name="Categoria")]
     public int CategoriaId {get; set;}
     
-    public string categoria {get; set;}
-    
     [Display(Name="Preço")]
     [Column(TypeName = "decimal(18,2)")]
     public decimal Preco {get; set;}

@@ -14,6 +14,6 @@ public class Categoria
     public string Descricao  {get; set;}
 
     // Atributo de Relacionamento
-    public virtual List<Prato> Pratos {get; set;}
+    public virtual List<Prato>? Pratos {get; set;}
   
 }
